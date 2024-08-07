@@ -1,8 +1,8 @@
 Boas vindas ao meu perfil 💙💙
 Meu nome é Fabio Vinycyus
 
-Estou estudando na Alura
+*Estou estudando na Alura
 
-Estou me desenvolvendo na linguagem JavaScript
+*Estou me desenvolvendo na linguagem JavaScript
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+*Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
